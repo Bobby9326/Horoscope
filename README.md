@@ -15,7 +15,7 @@ Here are some screenshots of the application:
 
 This project is a desktop application that provides horoscope predictions based on zodiac signs, blood type, birth date, fortune sticks (Siamese), and tarot cards. The application is built using `tkinter` for the graphical user interface.
 
-This is my first project, created as a learning experience in developing GUI applications with Python.
+This is my first project at 2022, created as a learning experience in developing GUI applications with Python.
 
 ## Features
 
