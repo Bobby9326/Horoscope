@@ -2,9 +2,12 @@
 
 Here are some screenshots of the application:
 
-![Screenshot 1](screenshot1.jpg)
-![Screenshot 2](screenshot1.jpg)
-![Screenshot 3](screenshot1.jpg)
+<p align="center">
+  <img src="screenshot1.jpg" width="30%">
+  <img src="screenshot2.jpg" width="30%">
+  <img src="screenshot3.jpg" width="30%">
+</p>
+
 
 # Horoscope Prediction App
 
