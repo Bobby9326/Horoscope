@@ -3,8 +3,8 @@
 Here are some screenshots of the application:
 
 ![Screenshot 1](screenshot1.jpg)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 2](screenshot1.jpg)
+![Screenshot 3](screenshot1.jpg)
 
 # Horoscope Prediction App
 
